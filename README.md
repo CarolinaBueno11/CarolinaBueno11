@@ -1,7 +1,8 @@
 ### Olá! 
 Estudando Manufatura Avançada na Fatec SJC!
-Aprendeno linguagem C++ e Python!
-
+##
+Aprendendo linguagem C++ e Python!
+##
 
 <div align="center">
   <a href="https://github.com/CarolinaBueno11">
